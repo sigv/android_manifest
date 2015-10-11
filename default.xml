@@ -5,6 +5,8 @@
            fetch="https://android.googlesource.com" />
   <remote  name="aospa"
            fetch="https://github.com/sigv" />
+  <remote  name="blobs"
+           fetch="https://github.com/ThankYouMario" />
   <default revision="refs/tags/android-6.0.0_r1"
            remote="aosp"
            sync-j="4" />
